@@ -1,0 +1,12 @@
+Lab Description
+- Lab 0: introduction to C
+- Lab 1: Linked List, Circular List
+- Lab 2: Sorting
+- Lab 3: Stack, Queue
+- Lab 4: Hashing
+- Lab 5: Tree Terminology
+- Lab 6: Binary Search Tree
+- Lab 7: Heap, Disjoint Set
+- Lab 8: Graph Terminology
+- Lab 9: Graph Algorithm (Dijkstra, Connectedness using DS, Breadth First Search)
+- Lab 10: Graph Algorithm (Minimum Spanning Tree, Flody Warshall’s Shortest Path)
